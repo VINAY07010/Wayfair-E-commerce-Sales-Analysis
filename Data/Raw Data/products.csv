@@ -1,0 +1,91 @@
+product_id,product_name,category,list_price,unit_cost
+1001,Brass Chef Knife,Kitchen,61.99,38.13
+1002,Walnut Cutting Board,Kitchen,138.99,74.76
+1003,Matte Black Dutch Oven, Kitchen,22.99,13.5
+1004,Classic Skillet,Kitchen,75.99,39.86
+1005,Linen Mixing Bowl Set,Kitchen ,79.99,41.11
+1006,Walnut Coffee Grinder,Kitchen,16.99,9.74
+1007,Modern Spice Rack,Kitchen,71.99,37.72
+1008,Matte Black Utensil Set,Kitchen,43.99,19.06
+1009,Brass Baking Sheet,Kitchen,131.99,76.08
+1010,Marble Tea Kettle, Kitchen,96.99,42.68
+1011,Brass Salad Spinner,kitchen,34.99,16.5
+1012,Ceramic Knife Block,KITCHEN,109.99,54.18
+1013,Cotton Pour Over Kettle,Kitchen,124.99,61.7
+1014,Matte Black Stock Pot,Kitchen,36.99,18.86
+1015,Oak Measuring Cup Set,Kitchen,96.99,59.54
+1016,Linen Duvet Cover, Bedding,180.99,89.88
+1017,Classic Sheet Set,Bedding,86.99,40.1
+1018,Ceramic Quilt,Bedding,212.99,104.1
+1019,Classic Pillow Pair,Bedding,77.99,35.14
+1020,Coastal Weighted Blanket,bedding,54.99,32.96
+1021,Velvet Mattress Topper,Bedding,123.99,55.52
+1022,Oak Throw Blanket,Bedding,88.99,49.1
+1023,Linen Pillowcase Set, Bedding,135.99,60.49
+1024,Walnut Comforter,Bedding,59.99,32.62
+1025,Bamboo Bed Skirt,Bedding,166.99,72.32
+1026,Cotton Linen Sheet Set,BEDDING,161.99,87.76
+1027,Walnut Down Pillow,Bedding,90.99,43.05
+1028,Brass Towel Set,Bath,77.99,38.08
+1029,Cotton Bath Mat,Bath,30.99,13.2
+1030,Matte Black Shower Curtain,bath,7.99,4.76
+1031,Stoneware Soap Dispenser,Bath,38.99,20.19
+1032,Linen Bath Robe,Bath,81.99,49.73
+1033,Walnut Hand Towel Pair,Bath,85.99,52.96
+1034,Nordic Toothbrush Holder,Bath,68.99,30.44
+1035,Modern Bath Caddy,Bath,51.99,23.42
+1036,Cotton Hamper,Bath,58.99,35.22
+1037,Coastal Waffle Towel Set,Bath,28.99,14.3
+1038,Linen Accent Chair,Furniture,313.99,154.25
+1039,Nordic Coffee Table,Furniture ,483.99,288.97
+1040,Marble Bookshelf,Furniture,476.99,272.45
+1041,Nordic Side Table,Furniture,553.99,246.04
+1042,Classic Dining Chair Pair,Furniture,773.99,445.47
+1043,Stoneware Bar Stool,Furniture,127.99,57.12
+1044,Bamboo Nightstand,furniture,529.99,310.35
+1045,Rattan Console Table,FURNITURE,506.99,296.1
+1046,Nordic Storage Bench,Furniture,142.99,76.3
+1047,Modern Writing Desk,Furniture,194.99,90.88
+1048,Linen Loveseat,Furniture,139.99,71.41
+1049,Linen TV Stand,Furniture,126.99,58.54
+1050,Nordic Floor Lamp,Lighting,146.99,73.04
+1051,Stoneware Table Lamp,LIGHTING,53.99,31.73
+1052,Linen Pendant Light,Lighting,208.99,88.63
+1053,Nordic Desk Lamp,Lighting,37.99,18.58
+1054,Velvet String Lights,Lighting,229.99,100.69
+1055,Oak Wall Sconce,Lighting,200.99,116.27
+1056,Nordic Arc Lamp,Lighting,239.99,147.53
+1057,Ceramic Bedside Lamp,Lighting,205.99,119.62
+1058,Velvet LED Strip Kit,Lighting,93.99,53.37
+1059,Cotton Patio Chair,Outdoor,467.99,260.82
+1060,Coastal Planter Set,Outdoor,134.99,72.75
+1061,Bamboo Outdoor Rug,Outdoor,45.99,25.53
+1062,Ceramic Fire Pit,Outdoor,152.99,70.3
+1063,Matte Black Hammock,Outdoor,245.99,111.71
+1064,Bamboo Garden Hose Reel,Outdoor,153.99,70.21
+1065,Brass Bistro Set,OUTDOOR,164.99,91.69
+1066,Oak Solar Path Lights,Outdoor,171.99,77.32
+1067,Velvet Outdoor Cushion Pair,Outdoor,34.99,20.21
+1068,Rattan Grill Tool Set, Outdoor,49.99,22.18
+1069,Bamboo Umbrella Stand,Outdoor,26.99,13.35
+1070,Stoneware Wall Mirror,Decor,122.99,51.74
+1071,Oak Vase,Decor,9.99,5.84
+1072,Coastal Picture Frame Set,decor,141.99,62.78
+1073,Rattan Candle Trio,Decor,69.99,40.8
+1074,Nordic Wall Art Print,Decor,19.99,9.52
+1075,Matte Black Throw Pillow,Decor,50.99,23.39
+1076,Modern Wreath,Decor,138.99,67.46
+1077,Classic Table Runner,Decor,25.99,14.66
+1078,Nordic Ornament Set,decor,85.99,44.64
+1079,Linen Faux Plant,decor,61.99,29.61
+1080,Classic Garland,Decor,134.99,58.61
+1081,Classic Decorative Tray,decor,74.99,45.48
+1082,Velvet Storage Basket,Storage,104.99,47.56
+1083,Velvet Drawer Organizer,Storage ,19.99,9.51
+1084,Walnut Shoe Rack,Storage,112.99,49.51
+1085,Coastal Closet System,Storage,115.99,49.45
+1086,Modern Under Bed Bin,Storage,97.99,43.62
+1087,Cotton Pantry Container Set,Storage,45.99,20.3
+1088,Coastal Coat Rack,Storage,20.99,12.03
+1089,Modern Floating Shelf,Storage,53.99,24.22
+1090,Bamboo Laundry Basket,Storage ,17.99,7.79

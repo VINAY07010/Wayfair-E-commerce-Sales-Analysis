@@ -1,0 +1,7 @@
+channel,orders,customers,revenue,avg_order
+organic_search,3458,741,773355.01,223.64
+paid_search,1261,327,290267.46,230.19
+referral,1247,248,273987.76,219.72
+email,1132,271,241789.09,213.59
+paid_social,1051,367,238330.7,226.77
+affiliate,307,93,63545.06,206.99
