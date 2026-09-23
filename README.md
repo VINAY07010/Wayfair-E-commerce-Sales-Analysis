@@ -87,7 +87,7 @@ Revenue is net merchandise revenue from orders that ended in a completed sale.
 
 ### 2. Furniture is the top revenue category and the biggest margin risk
 
-Furniture generated 322,774 dollars, about 17 percent of total revenue, driven by a handful of high ticket bestsellers like the Cotton Patio Chair and Classic Dining Chair Pair. It also carries the highest average order value at 506.78 dollars per order, more than 1.6 times the next category. But it has the highest return rate at 11.28 percent, roughly three times every other category which all sit between 3.31 and 4.73 percent.
+Furniture generated 322,774 dollars, about 17 percent of total revenue, driven by a handful of high ticket bestsellers like the Cotton Patio Chair and Classic Dining Chair Pair. It also carries the highest average order value at 506.78 dollars per order, more than 1.6 times the next category. But it has the highest return rate at 11.52 percent, roughly three times every other category which all sit between 3.52 and 4.01 percent.
 
 ### 3. Category mix rotates seasonally rather than staying constant
 
